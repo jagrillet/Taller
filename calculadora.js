@@ -9,7 +9,3 @@ function resta(a, b) {
 function producto(a, b) {
   return a * b
 }
-
-function division(a, b) {
-  return a / b
-}
